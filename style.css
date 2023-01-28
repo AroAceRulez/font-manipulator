@@ -1,0 +1,36 @@
+body{
+    background-image: url("bg.jpg");
+    font-family: cursive;
+    background-size: cover;
+
+}
+
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.note{
+    font-size:16px;
+    color: lightblue;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: black;
+    bottom:0;
+width:100%;
+background-color: cyan;
+line-height: 2;
+text-align: center;
+font-size: 18px;
+box-shadow: 10px -10px 10px grey;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px lime;
+}
